@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on CCC</title>
+    <link>https://examplesite.com/post/</link>
+    <description>Recent content in Posts on CCC</description>
+    <image>
+      <url>https://examplesite.com/favicon.png</url>
+      <link>https://examplesite.com/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 Apr 2022 23:52:02 +0900</lastBuildDate><atom:link href="https://examplesite.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>部活紹介</title>
+      <link>https://examplesite.com/post/introduction/</link>
+      <pubDate>Fri, 08 Apr 2022 21:54:12 +0900</pubDate>
+      
+      <guid>https://examplesite.com/post/introduction/</guid>
+      <description>入部希望の方へ C-cubeでは分野を問わず何かを創作したい方、メディアについて熱く語りたい方の入部を歓迎しています。
+見学希望の方は、漫研公式Twitterをチェックの上, 活動場所へ気軽にお越し下さい。ノーアポでも結構です。
+入部希望の方は、DM or Mailでご連絡下さい。その際は、サブジェクトを&amp;quot;[ccc]入部希望&amp;quot;とし、名前と学籍番号をお書き添え下さい。
+主な活動内容 自分でHPをホストしたり ラウンジで絵を描いたり駄弁ったり
+みんなで飯食いに行ったり
+Discordで世間話に花を咲かせたり
+そんな感じでまったりと活動しております。
+部としての外部発信は
+ 不定期発行のNOW及びNOW増刊 学園祭にて部員の絵を展示 コミケ一年生本
+になります。  OB病氏より一言 可愛い女の子の絵をもっと上手くかけるようになりたい！
+風景画に命をかけたい！
+HP作って自分の絵とか飾りたい！
+コミケでサークル参加して行列を作りたい！
+読み手を泣かせるようなストーリーを書きたい！
+コンピュータでCGを描いてみたい！
+なんか言いにくいけどパンツとかいいよね！
+やおいを馬鹿にするやつは殺す！
+リアルこみぱを体験したいぜ！
+勉強するために大学入ったんじゃねぇ！！
+そんな熱い夢と情熱を持ったアナタ、私たちはそんな貴方を歓迎し
+最大限にサポートしていくことをお約束いたします。
+どうぞご期待下さい。
+初代部長より ここ会津大学の地下に
+人知れず存在するオタクの聖地
+いかなる技も許される いかなる力も認められる
+自由で危険な空間がある
+武器の使用以外一切を認める
+だからこそ公平（フェア）なんだ！！
+日夜オタクどもが牙を研ぐ
+その中を駆け抜けろ！！</description>
+    </item>
+    
+    <item>
+      <title>活動内容</title>
+      <link>https://examplesite.com/post/activities/</link>
+      <pubDate>Fri, 08 Apr 2022 22:23:11 +0900</pubDate>
+      
+      <guid>https://examplesite.com/post/activities/</guid>
+      <description>活動内容 定例会議 毎週金曜18:10に、研究棟2階ラウンジ/S8教室で行われます。場所はLINEグループにて通知しております。活動については全てここで決定されますので、部員は必ず参加して下さい。
+頒布物 会誌&amp;quot;NOW&amp;quot;の学内での無料頒布を中心とし、有志が増刊を出すなどの活動を行なっております。また、夏コミにて一年生による同人誌を頒布します。
+学園祭 学園祭にてイラスト展示を中心に、アニメ年表作成、アニメ製作などの活動を各プロジェクトごとに行なっております。
+年間行事予定 下記が年間行事予定になります。スケジュールは各年度によって若干変更される可能性があります
+   時期 活動     4月 新入生説明会    お花見   5月 創作活動講習会   6月 新入生歓迎コンパ   8月 夏コミ   10月 蒼翔祭    打ち上げコンパ   12月 冬コミ   2月 追い出しコンパ    活動写真  見学希望者はお気軽に  2022年追い出し会   </description>
+    </item>
+    
+    <item>
+      <title>頒布情報</title>
+      <link>https://examplesite.com/post/distribution/</link>
+      <pubDate>Fri, 08 Apr 2022 23:52:02 +0900</pubDate>
+      
+      <guid>https://examplesite.com/post/distribution/</guid>
+      <description>NOW C-Cubeが各月程で不定期発行している会誌です。誌名は&amp;quot;Nonsense of Wonder&amp;quot;の略。学食入り口にて配布されています。配布数は一号あたり50～100部です。</description>
+    </item>
+    
+  </channel>
+</rss>
