@@ -2,68 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aizuccc.github.io/WebSite_public/en/post/activities/</loc>
+    <loc>https://aizu-ccc.site/en/post/activities/</loc>
     <lastmod>2022-04-09T00:26:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://aizuccc.github.io/WebSite_public/post/activities/"
+                href="https://aizu-ccc.site/post/activities/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aizuccc.github.io/WebSite_public/en/post/activities/"
+                href="https://aizu-ccc.site/en/post/activities/"
                 />
   </url><url>
-    <loc>https://aizuccc.github.io/WebSite_public/en/</loc>
+    <loc>https://aizu-ccc.site/en/</loc>
     <lastmod>2022-04-09T00:26:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://aizuccc.github.io/WebSite_public/"
+                href="https://aizu-ccc.site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aizuccc.github.io/WebSite_public/en/"
+                href="https://aizu-ccc.site/en/"
                 />
   </url><url>
-    <loc>https://aizuccc.github.io/WebSite_public/en/post/</loc>
+    <loc>https://aizu-ccc.site/en/post/</loc>
     <lastmod>2022-04-09T00:26:56+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://aizuccc.github.io/WebSite_public/post/"
+                href="https://aizu-ccc.site/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aizuccc.github.io/WebSite_public/en/post/"
+                href="https://aizu-ccc.site/en/post/"
                 />
   </url><url>
-    <loc>https://aizuccc.github.io/WebSite_public/en/post/introduction/</loc>
+    <loc>https://aizu-ccc.site/en/post/introduction/</loc>
     <lastmod>2022-04-08T21:59:28+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://aizuccc.github.io/WebSite_public/post/introduction/"
+                href="https://aizu-ccc.site/post/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aizuccc.github.io/WebSite_public/en/post/introduction/"
+                href="https://aizu-ccc.site/en/post/introduction/"
                 />
   </url><url>
-    <loc>https://aizuccc.github.io/WebSite_public/en/tags/</loc>
+    <loc>https://aizu-ccc.site/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://aizuccc.github.io/WebSite_public/tags/"
+                href="https://aizu-ccc.site/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aizuccc.github.io/WebSite_public/en/tags/"
+                href="https://aizu-ccc.site/en/tags/"
                 />
   </url>
 </urlset>
