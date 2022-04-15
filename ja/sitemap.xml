@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/post/introduction/</loc>
+    <loc>https://aizuccc.github.io/WebSite_public/post/introduction/</loc>
     <lastmod>2022-04-08T21:54:12+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/post/introduction/"
+                href="https://aizuccc.github.io/WebSite_public/en/post/introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://examplesite.com/post/introduction/"
+                href="https://aizuccc.github.io/WebSite_public/post/introduction/"
                 />
   </url><url>
-    <loc>https://examplesite.com/post/activities/</loc>
+    <loc>https://aizuccc.github.io/WebSite_public/post/activities/</loc>
     <lastmod>2022-04-08T22:23:11+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/post/activities/"
+                href="https://aizuccc.github.io/WebSite_public/en/post/activities/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://examplesite.com/post/activities/"
+                href="https://aizuccc.github.io/WebSite_public/post/activities/"
                 />
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://aizuccc.github.io/WebSite_public/</loc>
     <lastmod>2022-04-08T23:52:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/"
+                href="https://aizuccc.github.io/WebSite_public/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://examplesite.com/"
+                href="https://aizuccc.github.io/WebSite_public/"
                 />
   </url><url>
-    <loc>https://examplesite.com/post/</loc>
+    <loc>https://aizuccc.github.io/WebSite_public/post/</loc>
     <lastmod>2022-04-08T23:52:02+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/post/"
+                href="https://aizuccc.github.io/WebSite_public/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://examplesite.com/post/"
+                href="https://aizuccc.github.io/WebSite_public/post/"
                 />
   </url><url>
-    <loc>https://examplesite.com/post/distribution/</loc>
+    <loc>https://aizuccc.github.io/WebSite_public/post/distribution/</loc>
     <lastmod>2022-04-08T23:52:02+09:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://aizuccc.github.io/WebSite_public/tags/</loc>
     <lastmod>2022-04-08T22:23:11+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/en/tags/"
+                href="https://aizuccc.github.io/WebSite_public/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://examplesite.com/tags/"
+                href="https://aizuccc.github.io/WebSite_public/tags/"
                 />
   </url><url>
-    <loc>https://examplesite.com/tags/%E9%83%A8%E6%B4%BB%E7%B4%B9%E4%BB%8B/</loc>
+    <loc>https://aizuccc.github.io/WebSite_public/tags/%E9%83%A8%E6%B4%BB%E7%B4%B9%E4%BB%8B/</loc>
     <lastmod>2022-04-08T22:23:11+09:00</lastmod>
   </url>
 </urlset>
