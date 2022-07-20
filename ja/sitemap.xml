@@ -2,34 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aizu-ccc.site/post/introduction/</loc>
-    <lastmod>2022-04-08T21:54:12+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aizu-ccc.site/en/post/introduction/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aizu-ccc.site/post/introduction/"
-                />
-  </url><url>
-    <loc>https://aizu-ccc.site/post/activities/</loc>
-    <lastmod>2022-04-08T22:23:11+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aizu-ccc.site/en/post/activities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aizu-ccc.site/post/activities/"
-                />
+    <loc>https://aizu-ccc.site/post/20220715/</loc>
+    <lastmod>2022-07-20T21:24:03+09:00</lastmod>
   </url><url>
     <loc>https://aizu-ccc.site/</loc>
-    <lastmod>2022-04-08T23:52:02+09:00</lastmod>
+    <lastmod>2022-07-20T21:24:03+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +19,7 @@
                 />
   </url><url>
     <loc>https://aizu-ccc.site/post/</loc>
-    <lastmod>2022-04-08T23:52:02+09:00</lastmod>
+    <lastmod>2022-07-20T21:24:03+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -70,7 +47,33 @@
                 href="https://aizu-ccc.site/tags/"
                 />
   </url><url>
+    <loc>https://aizu-ccc.site/post/activities/</loc>
+    <lastmod>2022-04-08T22:23:11+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aizu-ccc.site/en/post/activities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aizu-ccc.site/post/activities/"
+                />
+  </url><url>
     <loc>https://aizu-ccc.site/tags/%E9%83%A8%E6%B4%BB%E7%B4%B9%E4%BB%8B/</loc>
     <lastmod>2022-04-08T22:23:11+09:00</lastmod>
+  </url><url>
+    <loc>https://aizu-ccc.site/post/introduction/</loc>
+    <lastmod>2022-04-08T21:54:12+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aizu-ccc.site/en/post/introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aizu-ccc.site/post/introduction/"
+                />
   </url>
 </urlset>
