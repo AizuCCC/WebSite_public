@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aizuccc.github.io/WebSite_public/post/20241108/</loc>
-    <lastmod>2024-11-06T19:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://aizuccc.github.io/WebSite_public/</loc>
-    <lastmod>2024-11-06T19:00:00+09:00</lastmod>
+    <lastmod>2025-02-08T22:23:11+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +16,7 @@
                 />
   </url><url>
     <loc>https://aizuccc.github.io/WebSite_public/post/</loc>
-    <lastmod>2024-11-06T19:00:00+09:00</lastmod>
+    <lastmod>2025-02-08T22:23:11+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +27,38 @@
                 hreflang="ja"
                 href="https://aizuccc.github.io/WebSite_public/post/"
                 />
+  </url><url>
+    <loc>https://aizuccc.github.io/WebSite_public/tags/</loc>
+    <lastmod>2025-02-08T22:23:11+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aizuccc.github.io/WebSite_public/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aizuccc.github.io/WebSite_public/tags/"
+                />
+  </url><url>
+    <loc>https://aizuccc.github.io/WebSite_public/post/activities/</loc>
+    <lastmod>2025-02-08T22:23:11+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aizuccc.github.io/WebSite_public/en/post/activities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://aizuccc.github.io/WebSite_public/post/activities/"
+                />
+  </url><url>
+    <loc>https://aizuccc.github.io/WebSite_public/tags/%E9%83%A8%E6%B4%BB%E7%B4%B9%E4%BB%8B/</loc>
+    <lastmod>2025-02-08T22:23:11+09:00</lastmod>
+  </url><url>
+    <loc>https://aizuccc.github.io/WebSite_public/post/20241108/</loc>
+    <lastmod>2024-11-06T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://aizuccc.github.io/WebSite_public/post/20240628/</loc>
     <lastmod>2024-06-28T23:30:00+09:00</lastmod>
@@ -45,35 +74,6 @@
   </url><url>
     <loc>https://aizuccc.github.io/WebSite_public/post/distribution/</loc>
     <lastmod>2022-04-08T23:52:02+09:00</lastmod>
-  </url><url>
-    <loc>https://aizuccc.github.io/WebSite_public/tags/</loc>
-    <lastmod>2022-04-08T22:23:11+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aizuccc.github.io/WebSite_public/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aizuccc.github.io/WebSite_public/tags/"
-                />
-  </url><url>
-    <loc>https://aizuccc.github.io/WebSite_public/post/activities/</loc>
-    <lastmod>2022-04-08T22:23:11+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aizuccc.github.io/WebSite_public/en/post/activities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://aizuccc.github.io/WebSite_public/post/activities/"
-                />
-  </url><url>
-    <loc>https://aizuccc.github.io/WebSite_public/tags/%E9%83%A8%E6%B4%BB%E7%B4%B9%E4%BB%8B/</loc>
-    <lastmod>2022-04-08T22:23:11+09:00</lastmod>
   </url><url>
     <loc>https://aizuccc.github.io/WebSite_public/post/introduction/</loc>
     <lastmod>2022-04-08T21:54:12+09:00</lastmod>
