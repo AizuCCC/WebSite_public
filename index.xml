@@ -9,18 +9,7 @@
       <link>https://aizuccc.github.io/now91_illust_toyama.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 16:00:00 +0900</lastBuildDate><atom:link href="https://aizuccc.github.io/WebSite_public/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>13月の活動予定</title>
-      <link>https://aizuccc.github.io/WebSite_public/post/sample/</link>
-      <pubDate>Mon, 21 Apr 2025 16:00:00 +0900</pubDate>
-      
-      <guid>https://aizuccc.github.io/WebSite_public/post/sample/</guid>
-      <description>主題 これはテストです。資料を作成した後に破棄されます。
-副題 #をつなげるほど小さくなります。
-表の作り方    Date Activity     13th modern war   25th apocalypse    画像の貼り方  /static/images/にある画像と同じものが/WebSite_public/images/にあるのでそちらを選ぶ   ハイパーリンクのやり方  画像のパスをリンクにして!を消すだけ 漫研公式X  少し応用  ホバー時の説明をつける 漫研公式X 画像をリンクにする   コメントアウトのやり方  htmlと同じ方法  </description>
-    </item>
-    
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:12 +0900</lastBuildDate><atom:link href="https://aizuccc.github.io/WebSite_public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>部活紹介</title>
       <link>https://aizuccc.github.io/WebSite_public/post/introduction/</link>
@@ -136,6 +125,17 @@ HP作って自分の絵とか飾りたい！
       
       <guid>https://aizuccc.github.io/WebSite_public/post/distribution/</guid>
       <description>NOW C-Cubeが各月程で不定期発行している会誌です。誌名は&amp;quot;Nonsense of Wonder&amp;quot;の略。学食入り口にて配布されています。配布数は一号あたり50～100部です。</description>
+    </item>
+    
+    <item>
+      <title>13月の活動予定</title>
+      <link>https://aizuccc.github.io/WebSite_public/post/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aizuccc.github.io/WebSite_public/post/sample/</guid>
+      <description>主題 これはテストです。資料を作成した後に破棄されます。
+副題 #をつなげるほど小さくなります。
+表の作り方    Date Activity     13th modern war   25th apocalypse    画像の貼り方  /static/images/にある画像と同じものが/WebSite_public/images/にあるのでそちらを選ぶ   ハイパーリンクのやり方  画像のパスをリンクにして!を消すだけ 漫研公式X  少し応用  ホバー時の説明をつける 漫研公式X 画像をリンクにする   コメントアウトのやり方  htmlと同じ方法  </description>
     </item>
     
   </channel>
